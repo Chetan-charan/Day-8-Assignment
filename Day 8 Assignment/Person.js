@@ -11,7 +11,7 @@ class Person {
     }
 }
 
-const person1 = new Person("John",28,"India");
+const person1 = new Person("John",28,"India");   //creating a new person
 
-console.log(person1.getName());
+console.log(person1.getName());                  //get the name of the person
 
